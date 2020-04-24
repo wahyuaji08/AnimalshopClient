@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980135155601",
+    "firebase_url": "https://animalshop-df034.firebaseio.com",
+    "project_id": "animalshop-df034",
+    "storage_bucket": "animalshop-df034.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980135155601:android:13bab500f022de7d87ec30",
+        "android_client_info": {
+          "package_name": "com.example.wahyuajisantoso.animalshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980135155601-8kg8epq0pd8e0q4idd7svrb3spf92ufu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wahyuajisantoso.animalshop",
+            "certificate_hash": "966925ecf9afda4f5e1af687f158d7715db50b82"
+          }
+        },
+        {
+          "client_id": "980135155601-ae167voug9fufrvi3vnk3fnuprhkec7k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUtPfXUWfUmnPPDH7FiK_6y73WEhlZ23Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980135155601-ae167voug9fufrvi3vnk3fnuprhkec7k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
